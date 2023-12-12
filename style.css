@@ -130,7 +130,7 @@ select {
     min-height: 100vh;
     align-items: center;
     justify-content: center;
-    background-image:url(./background_img.jpg);
+    background-image:url('backgroundImg.JPG');
    /* background-color:aqua;*/
     height: 100%;
     /*background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);*/
