@@ -15,4 +15,4 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 ### Landing Page
 ![landing_page](https://github.com/Manidheeraj123/Alaram_app_skill_test/assets/100212243/c94b0ba9-d002-4343-962d-21e3d67b433f)
 ### After Setting Alarm
-![after_alaram_set](https://github.com/Manidheeraj123/Alaram_app_skill_test/assets/100212243/196a43ad-a125-4380-8082-f296434dca4c)
+![after_alaram_set](https://github.com/Manidheeraj123/Alaram_app_skill_test/assets/100212243/2467f9d1-4243-4eae-9609-43dd6992e2a4)
